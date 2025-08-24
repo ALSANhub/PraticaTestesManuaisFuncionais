@@ -1,0 +1,18 @@
+# Plano de Workflow de Desenvolvimento e Ciclo de Vida do Bug
+
+## Workflow de Desenvolvimento
+1. Planejamento → Levantamento de requisitos e priorização das tarefas.
+2. Desenvolvimento → Implementação do código conforme requisitos.
+3. Code Review → Validação por pares para evitar falhas.
+4. Testes → Execução de testes automatizados e manuais.
+5. Deploy → Publicação em ambiente de produção.
+6. Monitoramento → Observação contínua de logs e métricas.
+
+## Ciclo de Vida do Bug
+1. **Novo** → O bug é identificado e registrado no sistema.
+2. **Aberto** → O time de QA confirma o bug.
+3. **Em progresso** → O desenvolvedor inicia a correção.
+4. **Resolvido** → Código ajustado, aguardando validação.
+5. **Em teste** → QA reexecuta os testes.
+6. **Fechado** → Bug validado como resolvido.
+7. **Reaberto** → Caso o bug persista, retorna ao status "Aberto".
