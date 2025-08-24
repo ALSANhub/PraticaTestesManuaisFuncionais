@@ -1,6 +1,6 @@
 # 📌 Desafio de Projeto — Qualidade de Software  
 **Empresa:** Abstergo Industries  
-**Projeto:** Hub de Distribuição Farmacêutica  
+**Projeto:** Hub de Distribuição SwagLAbs 
 **Responsável:** [Seu Nome Aqui]  
 **Data:** 23/08/2025  
 
@@ -15,7 +15,7 @@ O objetivo é apresentar um **plano de fluxo de trabalho de desenvolvimento**, o
 ├── mind_map_user_story1.pdf
 ├── test_cases_step_by_step.pdf
 ├── test_cases_bdd.pdf
-└── documentacao_pack_completa.pdf (opcional)
+└── documentacao_pack_completa.pdf 
 
 /assets
 └── (imagens, diagramas, se necessário)
